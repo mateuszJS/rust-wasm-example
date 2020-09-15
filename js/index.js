@@ -1,1 +1,1 @@
-import("../pkg/rust_webpack_template.js").catch(console.error);
+import("../pkg/index.js").catch(console.error);
